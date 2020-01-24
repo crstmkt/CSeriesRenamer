@@ -27,7 +27,7 @@ namespace CSeriesRenamer
                 foreach (var filename in episodeQueue.GetConsumingEnumerable())
                 {
                     //Rename
-                    if(filename.EndsWith(".avi") || filename.EndsWith(".mkv") || filename.EndsWith(".mov"))
+                    if(filename.EndsWith(".avi") || filename.EndsWith(".mkv") || filename.EndsWith(".mov") || filename.EndsWith(".mp4"))
                     {
                         String[] SplitteredString = filename.Split('\\');
 
