@@ -10,7 +10,7 @@ The Program has to be executed in the root directory of your Media-Archive. Hard
   
   < root > \ Game of Thrones\Staffel 01\01 Der Winter naht.ext
   
-  Transforming this to:
+  Transformins to:
   
   < root > \ Game of Thrones\Staffel 01\ Game of Thrones - S01E01 - Der Winter naht.ext
   
