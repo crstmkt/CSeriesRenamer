@@ -4,14 +4,14 @@ This program has no input parameters or something else. It works on a hard-codec
 
 The Program has to be executed in the root directory of your Media-Archive. Hard-coded pattern is
 
-< root >\<Name of series>\Staffel <Seasonnumer in Format 00>\<Episodenumber in Format 00> <EpisodeTitle>
+< root > \ <Name of series>\Staffel <Seasonnumer in Format 00>\<Episodenumber in Format 00> <EpisodeTitle>
   
   Example:
   
-  < root >\Game of Thrones\Staffel 01\01 Der Winter naht
+  < root > \ Game of Thrones\Staffel 01\01 Der Winter naht
   
   Transforming this to:
   
-  < root >\Game of Thrones\Staffel 01\ Game of Thrones - S01E01 - Der Winter naht
+  < root > \ Game of Thrones\Staffel 01\ Game of Thrones - S01E01 - Der Winter naht
   
   The program executes .avi, .mkv, .mov and .mp4 files.
