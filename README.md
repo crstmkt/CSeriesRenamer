@@ -4,7 +4,7 @@ This program has no input parameters or something else. It works on a hard-codec
 
 The Program has to be executed in the root directory of your Media-Archive. Hard-coded pattern is
 
-< root > \ < Name of series > \ Staffel < Seasonnumer in Format 00 > \ < Episodenumber in Format 00 > < EpisodeTitle >
+< root > \ < Name of series > \ Staffel < Seasonnumer in Format 00 > \ < Episodenumber in Format 00 > < EpisodeTitle > .ext
   
   Example:
   
