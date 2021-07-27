@@ -1,6 +1,6 @@
 # CSeriesRenamer
 
-This program has no input parameters or something else. It works on a hard-codec pattern and transforms this to another hard-coded pattern to make files recognizable by KODI.
+This program has no input parameters or something else. It works on a hard-coded pattern and transforms this to another hard-coded pattern to make files recognizable by KODI.
 
 The Program has to be executed in the root directory of your Media-Archive. Hard-coded pattern is
 
