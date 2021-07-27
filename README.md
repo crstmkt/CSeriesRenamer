@@ -8,10 +8,10 @@ The Program has to be executed in the root directory of your Media-Archive. Hard
   
   Example:
   
-  < root > \ Game of Thrones\Staffel 01\01 Der Winter naht.ext
+  < root > \ Game of Thrones\Staffel 01\01 Der Winter naht.mkv
   
-  Transformins to:
+  Transforms into:
   
-  < root > \ Game of Thrones\Staffel 01\ Game of Thrones - S01E01 - Der Winter naht.ext
+  < root > \ Game of Thrones\Staffel 01\ Game of Thrones - S01E01 - Der Winter naht.mkv
   
   The program executes .avi, .mkv, .mov and .mp4 files.
